@@ -1,0 +1,18 @@
+h1{
+    color: lime;
+}
+
+p{
+    color: yellow;
+    font-weight: bold;
+    font-family: serif;
+}
+
+body{
+    background-image:url("../images/flintstones.jpg");
+}
+
+img{
+    width: 50%;
+    height: auto;
+}
